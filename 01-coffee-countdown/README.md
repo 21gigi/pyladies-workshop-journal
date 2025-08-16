@@ -11,7 +11,7 @@ My twist: I made *two versions* — one with a **for loop** and one with a **whi
 - Calculate the total cups before the workshop.  
 - Print a fun message with the result!  
 
-(Full instructions can be found in `instructions.md` 📄)
+(Full instructions can be found in `[Own the Cloud] Mini Pre-Work Python Challenge_Coffee Countdown.pdf` 📄)
 
 ---
 
